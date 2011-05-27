@@ -1,1 +1,2 @@
 ﻿bu ilk girdi
+ikinci girdi
